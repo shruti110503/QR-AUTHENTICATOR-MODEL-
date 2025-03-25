@@ -37,8 +37,7 @@ pip install numpy opencv-python matplotlib scikit-learn torch torchvision
 ### **Step 3: Set Up Dataset**
 - Extract the dataset folders (`First_Print`, `Second_Print`) into the project directory.
 - Update the paths in the script (`first_print_path`, `second_print_path`).
-- https://drive.google.com/drive/folders/1pPeWT1zntlKXnuY_yHmpI-ZzKl4nLgQS?usp=drive_l
- ink (Data Set Link)
+- https://drive.google.com/drive/folders/1pPeWT1zntlKXnuY_yHmpI-ZzKl4nLgQS?usp=drive_link (Data Set Link)
 
 ### **Step 4: Run the Model**
 ```bash
